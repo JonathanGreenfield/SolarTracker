@@ -37,3 +37,4 @@ to be a littel challenging because I was limited to only a small 3d printer. Det
 that easy with 3d printed parts unless I apply large factors of safety. Considering this was still a prototype and I really 
 only needed experimental data it didnt need to look pretty--only function properly.
 
+**Will Continue adding and editing as time permits, I am a student afterall.
